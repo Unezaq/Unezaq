@@ -1,4 +1,4 @@
-# Hi there, I'm Abdellah 👋
+# Hi there, I'm Abdellah SELMANI 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in artificial intelligence (AI). I love to build innovative solutions and contribute to the open-source community.
 
@@ -30,9 +30,9 @@ Here are some of the technologies and tools I work with:
 
 Feel free to connect with me on:
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website/Blog](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/abdellahselmani)
+- [Twitter](https://x.com/uneizac_)
+- [Personal Website/Blog](https://linktr.ee/abdellahslimani)
 
 ## 🌟 Projects
 
